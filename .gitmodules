@@ -1,0 +1,4 @@
+[submodule "huckleberry"]
+	path = huckleberry
+	url = https://github.com/ketchel/huckleberry.git
+	branch = main
